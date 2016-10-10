@@ -4,9 +4,9 @@
   "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
-      "docset_name": "async_performance",
+      "docset_name": "ydkjs",
       "build_source_folder": "async_performance",
-      "build_output_subfolder": "async_performance",
+      "build_output_subfolder": "async & performance",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,
@@ -27,7 +27,7 @@
       "path_to_root": "_themes.MSDN.Modern",
       "url": "https://github.com/Microsoft/templates.msdn.msft",
       "branch": "master",
-      "branch_mapping": { "master" : "develop" }
+      "branch_mapping": {}
     }
   ]
 }
